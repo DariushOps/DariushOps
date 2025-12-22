@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I'm Amir
 ⚛️ Front-end dev building cool stuff with React <br>💡Enjoy creating things, from code to ideas <br>🌍 Like understanding the bigger picture behind everything <br>💻 Creating and building things is what truly drives me <br>🫱🏻‍🫲🏻 Helping others and sharing knowledge really matters to me <br>🌌 Deeply interested in astronomy and the universe <br>🎧 Enjoy instrumental music 
 
 
