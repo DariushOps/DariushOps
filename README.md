@@ -1,6 +1,7 @@
- <h1 align="center" style="color:#16a34a">
-  💫 Hey, I'm Amir 👋🏻
+<h1 align="center">
+  <span style="color:#22c55e;">💫 Hey, I'm Amir 👋🏻</span>
 </h1>
+
 ⚛️ Front-end dev building cool stuff with React <br>💡Enjoy creating things, from code to ideas <br>🌍 Like understanding the bigger picture behind everything <br>💻 Creating and building things is what truly drives me <br>🫱🏻‍🫲🏻 Helping others and sharing knowledge really matters to me <br>🌌 Deeply interested in astronomy and the universe <br>🎧 Enjoy instrumental music 
 
 
